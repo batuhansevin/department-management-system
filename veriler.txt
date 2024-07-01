@@ -1,0 +1,9 @@
+Departmanlar:
+insan kaynaklari
+bilgi islem
+muhasebe
+Calisanlar:
+Batuhan Sevın,1,1
+Ozgur Berk Cukurova,2,0
+Sıla Tara Sel,3,2
+Sla,1,3
